@@ -1,0 +1,11 @@
+h1 {
+    text-align: center;
+    color:#722f08;
+}
+p.color {
+    color:#af4608
+}
+table, th, td {border: 1px solid white); width:50%;padding:5px}
+th {padding: 5px;background-color: white}
+td {color: gray}
+tr {color: black}
